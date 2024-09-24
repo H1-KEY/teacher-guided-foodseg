@@ -1,0 +1,1 @@
+food-seg-modified/yolov8x-seg-modified/weights/last.pt filter=lfs diff=lfs merge=lfs -text
